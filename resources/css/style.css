@@ -1,12 +1,30 @@
-h1 {
-  font-family: veranda;
-  font-size: 50px;
-  color: white;
+body {
+  background-color: black;
   text-align: center;
+  font-family: verdana;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+}
+
+h2 {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p {
+  color: gray;
+  font-size: 21px;
+}
+
+p.copyright {
+  text-align: right;
 }
 
 a {
   color: aquamarine;
   font-size: 16px;
-  text-align: center;
 }
